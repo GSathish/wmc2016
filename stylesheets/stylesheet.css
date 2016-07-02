@@ -132,7 +132,7 @@ pre code {
 ================================================== */
 header {
   padding-top: 35px;
-  background-image: url(../images/porto2.jpg);
+  /* background-image: url(../images/porto2.jpg); */
   background-size: contain;
   background-repeat: no-repeat;
   background-color: inherit;
