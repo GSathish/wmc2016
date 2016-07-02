@@ -135,6 +135,8 @@ header {
   background-image: url(../images/porto2.jpg);
   background-size: contain;
   background-repeat: no-repeat;
+  background-color: inherit;
+  background-clip: content-box;
 }
 
 header h1, header h1 a {
