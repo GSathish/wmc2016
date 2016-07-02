@@ -1,5 +1,1 @@
-dojosto.com
-===========
-
-A small website about me, Doug Johnston.
-wmc2016
+WMC 2016 website
