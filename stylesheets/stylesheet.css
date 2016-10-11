@@ -120,6 +120,7 @@ pre code {
 .inner {
   width: 720px;
   margin: 0 auto;
+  padding: 10px;
 }
 
 .inner-wide {
